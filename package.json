@@ -23,5 +23,8 @@
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "webpack-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "hoek": "^5.0.4"
   }
 }
