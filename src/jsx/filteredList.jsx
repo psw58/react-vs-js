@@ -1,7 +1,5 @@
 import React from 'react'
 
-
-
 export class FilteredList extends React.Component{
   constructor(props) {
     super(props);
